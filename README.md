@@ -21,8 +21,7 @@
 😄 Pronouns: He/Him  
 ⚡ Languages: English, Hindi, Punjabi  
 
-
----
+<br>
 
 ### 📫 Wanna Chat?
 
@@ -30,8 +29,7 @@ Pick a slot if you'd like to meet me and chat about anything you’re passionate
 
 [![Calendly Link](https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png)](https://calendly.com/jashansinghlubana8604)
 
----
-
+<br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
