@@ -75,7 +75,8 @@ const jashan = {
 ```
 Windows                                      █████████████████████████   100.00 % 
 Linux                                        ███████████████████░░░░░░    80.00 %
-
+```
+<br>
 ### Connect With Me: 🔗🌐
 
 Let's connect on different platforms and explore the tech universe together! Feel free to reach out or follow me on various platforms:
